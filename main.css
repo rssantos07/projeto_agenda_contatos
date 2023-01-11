@@ -78,22 +78,3 @@ table td {
 
  }
 
- .sucess-message {
-    background-color: #27ae60;
-    padding: 16px;
-    color: #fff;
-    
-}
-input.error{
-    color: red;
-    border-color: red;
-    outline-color: red;
-}
-.error-message{
-    padding:8px ;
-    background-color: red;
-    color: white;
-    margin-bottom: 8px;
-    font-size: 12px;
-    display: none;
-}
